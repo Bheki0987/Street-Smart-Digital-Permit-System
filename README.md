@@ -127,10 +127,11 @@ graph TD
 To explore the documentation, navigate the folders below:
 ```
 StreetSmart/
+
+├── LICENCE
+├── README.md
 ├── Street-Smart Final Documentation
-├── StreetSmart-Digital-Informal-Trade-Permit-System (1)
-├── LICENCE.md 
-└── README.md
+└── StreetSmart-Digital-Informal-Trade-Permit-System (1)
 ```
 ## 👤 About the Author
 **Bheki Mogola**   
