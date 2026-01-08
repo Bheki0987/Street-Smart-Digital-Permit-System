@@ -137,6 +137,7 @@ StreetSmart/
 **Bheki Mogola**   
 
 Business Analyst | Data & Business Analytics
+
 I specialize in bridging the gap between business needs and technical solutions. This project showcases my ability to:
 - Translate vague problems into concrete technical requirements.
 - Document complex systems for both technical and non-technical stakeholders.
