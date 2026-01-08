@@ -4,6 +4,7 @@
 >
 > **Status:** 🟢 Complete & Ready for Review
 > **Domain:** GovTech / Municipal Services / FinTech
+
 > **Author:** Bheki Mogola — Business Analyst
 
 ---
@@ -126,11 +127,9 @@ graph TD
 To explore the documentation, navigate the folders below:
 ```
 StreetSmart/
-├── 01_Strategy_Planning/       # Charters, Feasibility, Business Case
-├── 02_Requirements/            # BRD, SRS, Risk Logs, RACI
-├── 03_System_Design/           # ERD, DFDs, Wireframes, Process Maps
-├── 04_Testing_QA/              # Test Plans, UAT Scripts, Bug Logs
-├── 05_Deployment_Ops/          # Manuals, Training, SLAs, Release Notes
+├── Street-Smart Final Documentation
+├── StreetSmart-Digital-Informal-Trade-Permit-System (1)
+├── LICENCE.md 
 └── README.md
 ```
 ## 👤 About the Author
